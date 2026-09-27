@@ -1,0 +1,15 @@
+{
+  "alpha": 1.3344774544417564,
+  "cog_payday": 0.6929152351378054,
+  "shock_p_start": 0.0076469095891566335,
+  "alpha_bootstrap_se": 0.49179758789114014,
+  "cog_payday_bootstrap_se": 0.06679333519956232,
+  "shock_p_start_bootstrap_se": 0.005017051967028203,
+  "target_m1_payday_12mo": 0.03873511674655945,
+  "target_m2_chronic_revolver": 0.215633423180593,
+  "target_m3_missed_min_payment": 0.02806324110671937,
+  "fitted_sse": 0.0007632281610708964,
+  "calibration_source": "https://www.federalreserve.gov/consumerscommunities/files/SHED_2025codebook.pdf",
+  "calibration_sample_n": 12934,
+  "note": "Calibrated against REAL, cited 2025 SHED codebook tabulations (unweighted). See src/data/shed_real_moments.py for exact counts."
+}

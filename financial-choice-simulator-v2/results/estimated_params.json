@@ -1,0 +1,9 @@
+{
+  "alpha": 0.2814093532299583,
+  "cog_payday": 0.435694948543534,
+  "shock_p_start": 0.017788174134175758,
+  "alpha_bootstrap_se": 0.5676984474000145,
+  "cog_payday_bootstrap_se": 0.08847546820650713,
+  "shock_p_start_bootstrap_se": 0.005705894054360264,
+  "note": "Recovered from SYNTHETIC ground-truth data, not real survey data. See README before treating these as real-world estimates."
+}
